@@ -14,7 +14,7 @@ organizations:
   url: https://www.auckland.ac.nz
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include freshwater ecology, dispersal, connectivity and modelling.
+ bio: ""
 
 # Interests to show in About widget
 interests:
@@ -56,8 +56,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/flee598
-
-# Link to a PDF of your resume/CV.
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
