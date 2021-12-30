@@ -14,13 +14,14 @@ organizations:
   url: https://www.auckland.ac.nz
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include freshwater ecology, dispersal, connectivity and modelling.
 
 # Interests to show in About widget
 interests:
 - Freshwater Ecology
 - Dispersal/Connectivity
 - Modelling
+- Metapopulation/community dynamics
 
 # Education to show in About widget
 education:
@@ -45,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: "mailto:lee.finnbar@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FinnbarLee
