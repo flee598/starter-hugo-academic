@@ -5,7 +5,7 @@
 
 title: Finnbar Lee # Website name
 baseurl: 'https://finnbarlee.netlify.app' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Finnbar Lee' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
