@@ -14,7 +14,7 @@ organizations:
   url: https://www.auckland.ac.nz
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include freshwater ecology, dispersal, connectivity and modelling.
+# bio: My research interests include freshwater ecology, dispersal, connectivity and modelling.
 
 # Interests to show in About widget
 interests:
