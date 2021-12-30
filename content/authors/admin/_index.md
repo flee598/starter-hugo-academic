@@ -14,7 +14,7 @@ organizations:
   url: https://www.auckland.ac.nz
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include freshwater ecology, dispersal, connectivity and modelling.
+# bio: My research interests include freshwater ecology, dispersal, connectivity and modelling.
 
 # Interests to show in About widget
 interests:
@@ -32,10 +32,10 @@ education:
   - course: MSc in Environmental Science
     institution: University of Auckland
     year: 2015
-  - course: PGDipSci Environmental Science 
+  - course: PGDipSci in Environmental Science 
     institution: University of Auckland
     year: 2014
-  - course: BSc Ecology and Biodiversity, Minor in Statistics
+  - course: BSc in Ecology and Biodiversity, Minor in Statistics
     institution: University of Victoria, Wellington
     year: 2012
 
