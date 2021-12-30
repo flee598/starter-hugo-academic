@@ -58,8 +58,6 @@ social:
   link: https://github.com/flee598
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
@@ -72,5 +70,3 @@ highlight_name: true
 ---
 
 I am a Postdoctoral Research Fellow at the University of Auckland. My research focuses on the spatial dynamics of populations and communities, with a particular focus on freshwater fish. Currently I am working to better understand how amphidromous dispersal in whitebait populations can interact with stressors to determine extinction risk. This research is conducted with collaborators at UoA and around New Zealand and is supported by the George Mason Centre for the Natural Environment.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
