@@ -21,7 +21,7 @@ interests:
 - Freshwater Ecology
 - Dispersal/Connectivity
 - Modelling
-- Metapopulation/community dynamics
+- Metapopulation/Community Dynamics
 
 # Education to show in About widget
 education:
@@ -32,10 +32,10 @@ education:
   - course: MSc in Environmental Science
     institution: University of Auckland
     year: 2015
-  - course: PGDipSci Environmental Science 
+  - course: PGDipSci in Environmental Science 
     institution: University of Auckland
     year: 2014
-  - course: BSc Ecology and Biodiversity, Minor in Statistics
+  - course: BSc in Ecology and Biodiversity, Minor in Statistics
     institution: University of Victoria, Wellington
     year: 2012
 
