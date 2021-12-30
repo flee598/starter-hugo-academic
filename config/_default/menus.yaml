@@ -11,7 +11,7 @@ main:
  #  url: '#posts'
  #  weight: 20
    - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 20
 # change to research
   - name: Projects
@@ -19,13 +19,13 @@ main:
     weight: 30
   - name: Software
     url: '#software'
-    weight: 40
+    weight: 50
   - name: SciComm
     url: '#software'
-    weight: 40
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 40
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
