@@ -7,17 +7,17 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: SciComm
-    url: '#scicomm'
-    weight: 20
   - name: Research
     url: '#research'
+    weight: 20
+  - name: Publications
+    url: '#featured'
     weight: 30
   - name: Software
     url: '#software'
     weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: SciComm
+    url: '#scicomm'
     weight: 50
   - name: Contact
     url: '#contact'
