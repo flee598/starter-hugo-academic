@@ -7,8 +7,8 @@ main:
   - name: Home
     url: '#about'
     weight: 10
- - name: Publications
-    url: '#publications'
+  - name: Posts
+    url: '#posts'
     weight: 20
   - name: Projects
     url: '#projects'
@@ -16,8 +16,8 @@ main:
   - name: Software
     url: '#software'
     weight: 40
-   - name: Posts
-    url: '#posts'
+  - name: Publications
+    url: '#featured'
     weight: 50
   - name: Contact
     url: '#contact'
