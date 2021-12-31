@@ -21,7 +21,7 @@ interests:
 - Freshwater Ecology
 - Dispersal/Connectivity
 - Modelling
-- Metapopulation/community dynamics
+- Metapopulation/Community Dynamics
 
 # Education to show in About widget
 education:
