@@ -1,5 +1,5 @@
 ---
-title: nzffdr R package
+title: SBN R package
 summary: ""
 date: "2016-04-27T00:00:00Z"
 
@@ -23,4 +23,4 @@ url_video: ""
 slides: ""
 ---
 
-R package that facilitates accessing and manipulating NZFFD data in R.
+R package for generating and working with Stocastic Branching Networks (SBNs).
