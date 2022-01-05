@@ -27,4 +27,6 @@ content:
   
 design:
   columns: '2'
+
+email_form: 0
 ---
