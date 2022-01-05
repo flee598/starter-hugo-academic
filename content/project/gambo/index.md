@@ -1,5 +1,5 @@
 ---
-title: Land use change and the spread of freshwater invasive species
+title: Land use change and the spread of invasive freshwater species
 summary: MSc work looking at thr role of agricultural land use in facilitating the spread of Mosquitofish.
 date: "2016-04-27T00:00:00Z"
 
