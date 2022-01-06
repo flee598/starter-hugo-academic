@@ -7,7 +7,7 @@ title: "example 1: put full citation here"
 #authors:
 #- admin
 
-date: "2013"
+date: "2013-01-01"
 doi: "https://doi.org/10.1016/j.scitotenv.2017.02.101"
 
 # Schedule page publish date (NOT publication's date).
