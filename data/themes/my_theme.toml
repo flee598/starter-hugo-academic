@@ -1,0 +1,9 @@
+# Theme metadata
+name = "my_theme"
+
+[dark]
+  # Primary
+  primary = "#bbdefb"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
