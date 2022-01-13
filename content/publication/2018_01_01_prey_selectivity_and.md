@@ -2,7 +2,7 @@
 title: "Prey selectivity and ontogenetic diet shift of the globally invasive western mosquitofish (Gambusia affinis) in agriculturally impacted streams"
 authors: ["Finnbar Lee", "Kevin S. Simon", "George L.W. Perry"]
 date: "2018-01-01"
-doi: "https://doi.org/10.1111/eff.12395"
+doi: ""
 publishDate: "2018-01-01"
 publication_types: ["2"]
 publication: Ecology of Freshwater Fish
