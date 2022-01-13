@@ -10,7 +10,7 @@ publication_short:
 abstract: No abstract available.
 summary:
 tags: []
-featured: false
+featured: true
 url_pdf: ""
 url_code: ""
 url_dataset: ""
