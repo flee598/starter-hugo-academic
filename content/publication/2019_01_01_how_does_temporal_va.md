@@ -10,7 +10,7 @@ publication_short:
 abstract: "Metapopulation persistence depends on connectivity between habitat patches. While emphasis has been placed on the spatial dynamics of connectivity, much less has been placed on its short-term temporal dynamics. In many terrestrial and aquatic ecosystems, however, transient (short term) changes in connectivity occur as habitat patches are connected and disconnected due, for example, to climatic or hydrological variability. We evaluated the implications of transient connectivity using a networkbased metapopulation model and a series of scenarios representing temporal changes in connectivity. The transient loss of connectivity can influence metapopulation persistence, and more strongly autocorrelated temporal dynamics affect metapopulation persistence more severely. Given that many ecosystems experience short-term and temporary loss of habitat connectivity, it is important that these dynamics are adequately represented in metapopulation models; failing to do so may yield overly optimistic-estimates of metapopulation persistence in fragmented landscapes."
 summary:
 tags: []
-featured: true
+featured: false
 url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.06052"
 url_code: ""
 url_dataset: ""
