@@ -4,8 +4,8 @@ date: "2017-01-01"
 doi: "https://doi.org/10.1016/j.scitotenv.2017.02.101"
 authors: ["Finnbar Lee", "Kevin S. Simon", "George L.W. Perry"]
 publication_types: ["2"]
-publication: "Science of The Total Environment, (586), _pp. 1113--1123_, https://doi.org/10.1016/j.scitotenv.2017.02.101"
-publication_short: "Science of The Total Environment, (586), _pp. 1113--1123_, https://doi.org/10.1016/j.scitotenv.2017.02.101"
+publication: "Science of The Total Environment"
+publication_short: ""
 abstract: "Land-use change and invasive species pose major threats to ecosystems globally. These stressors can act together, with disturbance due to changes in land-use facilitating invasion. We examined the potential for agricultural land use to facilitate the establishment and population growth (abundance) of a globally invasive fish (Gambusia affinis). To achieve this we examined Gambusia presence, abundance, and life history traits in 31 streams spanning an agricultural land use gradient in the North Island of New Zealand.
 We used regression models to quantify the relationship between agricultural land use and in-stream physiochemical and habitat variables, and zero-inflated models to explore the relationship among physiochemical, habitat and catchment-scale variables and Gambusia's distribution and abundance.
 The percentage of the catchment in agricultural land use was associated with changes to physiochemical and habitat conditions. Increasing agricultural land use was associated with increasing macrophyte cover and water temperature and decreasing velocity in streams. Catchment-scale variables (land use and site position in the network) and water temperature were the most important determinants of whether Gambusia occurred at a site. Local in-stream habitat (macrophyte cover and water velocity) and nutrient conditions were the most influential predictors of Gambusia abundance given Gambusia were present. Gambusia life-history traits, sex ratio and body length varied among sites but were not predicted by physiochemical gradients.
