@@ -1,6 +1,7 @@
 ---
 title: "Increasing agricultural land use is associated with the spread of an invasive fish (Gambusia affinis)"
 date: "2017-01-01"
+publishDate: "2017-01-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.scitotenv.2017.02.101"
 authors: ["Finnbar Lee", "Kevin S. Simon", "George L.W. Perry"]
 publication_types: ["2"]
