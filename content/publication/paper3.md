@@ -19,8 +19,4 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-image:
-  caption: ''
-  focal_point: ""
-  preview_only: false
 ---
