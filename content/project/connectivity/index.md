@@ -34,7 +34,7 @@ In the second part of my PhD we presented a mechaistic model of a fish metacommu
 
 **Article title here** *In prep* 
 
-{{< figure src="connect_fig_1.jpg" caption="A caption" numbered="false" >}}
+{{< figure src="connect_fig_1.png" caption="A caption" numbered="false" >}}
 
 We then used the model above to examine how spatiotemoral aspects fo aconnectivity affect patterns of species richness
 
