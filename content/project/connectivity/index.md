@@ -23,17 +23,26 @@ url_video: ""
 slides: ""
 ---
 
-For my PhD I examined used models to metapoplation and community dynamics to examine how netork topology and connectivity can affect species extinctions and patterns of species richness.
+For my PhD I used metapoplation/community models to examine how netork topology and connectivity can affect extinction risk and patterns of species richness.
+
+{{< figure src="connect_fig_2.png" caption="River networks generated via different methods" numbered="false" >}}
+
+First we examined differneces among network generating algorithms and the metrics frequently used to quantify topology. 
+
+Currently, two main algorithms are used, stochastic branching networks (SBNs) and optimal channel networks (OCNs). The topology of these simulated networks and “real” rivers is often quantified using graph theoretic metrics. We aim to provide guidance as to which algorithm and metrics should be used, and under what circumstances.
+
+We performed an extensive simulation study in which we i) identified orthogonal sets of metrics that describe the network topology of real and simulated networks, ii) analysed the relationship between algorithm hyper-parameters and node topology metrics, iii) determined if simulated rivers are able to replicate graph metric scores of real rivers, and iv) examined how patterns of species abundances compare across the three network types.
+
+Both SBNs and OCNs can replicate the node topology of real rivers. The choice of which algorithm to use will depend on the research aims, SBNs are faster to generate and more tractable, whereas OCNs can reproduce a wider variety of the characteristics of real rivers, but are more time-consuming to generate. When quantifying node topology in river networks we recommend the orthogonal node metrics eccentricity, when interested in network centrality, and mean neighbour degree, when interested in local node importance. 
+
+**River networks: an analysis of simulating algorithms and graph metrics used to quantify** *In review* 
 
 
-First we examined network generating algorithms xxx
 
-**Article title here** *In review* 
+In the second part of my PhD we presented a mechanistic model of a freshwaterfish metacommunity and used the model to understand how environemntal variability can interact with disturbance to shape patterns of species richness. 
 
+**Environmental spatial structure mediates metacommunity response to disturbance in dendritic ecological networks** *In prep* 
 
-In the second part of my PhD we presented a mechaistic model of a fish metacommunity
-
-**Article title here** *In prep* 
 
 {{< figure src="connect_fig_1.png" caption="A caption" numbered="false" >}}
 
