@@ -7,7 +7,7 @@ date: "2020-01-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Dimensions of connectivity in rivers.
+  caption:
   focal_point: Smart
 
 url_code: ""
@@ -23,11 +23,11 @@ url_video: ""
 slides: ""
 ---
 
-For my PhD I used metapoplation/community models to examine how netork topology and connectivity can affect extinction risk and patterns of species richness.
+For my PhD I used metapopulation/community models to examine how network topology and connectivity can affect extinction risk and patterns of species richness.
 
-{{< figure src="connect_fig_1.png" caption="River networks generated via different methods" numbered="false" >}}
+{{< figure src="connect_fig_1.png" caption="River networks generated via different algorithms" numbered="false" >}}
 
-First we examined differneces among network generating algorithms and the metrics frequently used to quantify topology. 
+First we examined differences among network generating algorithms and the metrics frequently used to quantify topology. 
 
 Currently, two main algorithms are used, stochastic branching networks (SBNs) and optimal channel networks (OCNs). The topology of these simulated networks and “real” rivers is often quantified using graph theoretic metrics. We aim to provide guidance as to which algorithm and metrics should be used, and under what circumstances.
 
@@ -38,16 +38,16 @@ Both SBNs and OCNs can replicate the node topology of real rivers. The choice of
 **River networks: an analysis of simulating algorithms and graph metrics used to quantify** *In review* 
 
 
-{{< figure src="connect_fig_2.png" caption="Trait response to disturbance" numbered="false" >}}
+{{< figure src="connect_fig_2.png" caption="Trait response to disturbance. C = Competition, R = Reproduction, D = Dispersal" numbered="false" >}}
 
-In the second part of my PhD we presented a mechanistic model of a freshwaterfish metacommunity and used the model to understand how environemntal variability can interact with disturbance to shape patterns of species richness. Understanding how species coexist remains a long-running challenge in ecology. Coexistence, and hence patterns of richness and diversity, result from a combination of selection, drift, speciation, and dispersal, the relative importance of each being context and scale-dependent. Here, we have outlined a simple, but flexible model that focuses on variability in species traits and that explicitly considers network structure when representing freshwater fish metacommunity dynamics. Our findings suggest that when looking to understand how species may respond to disturbance regimes in the future, an understanding of environmental spatial structure (ESS) is also needed as ESS can mediate the effects of disturbance.
+In the second part of my PhD we presented a mechanistic model of a freshwater fish metacommunity and used the model to understand how environmental variability can interact with disturbance to shape patterns of species richness. Understanding how species coexist remains a long-running challenge in ecology. Coexistence, and hence patterns of richness and diversity, result from a combination of selection, drift, speciation, and dispersal, the relative importance of each being context and scale-dependent. Here, we have outlined a simple, but flexible model that focuses on variability in species traits and that explicitly considers network structure when representing freshwater fish metacommunity dynamics. Our findings suggest that when looking to understand how species may respond to disturbance regimes in the future, an understanding of environmental spatial structure (ESS) is also needed as ESS can mediate the effects of disturbance.
 
 **Environmental spatial structure mediates metacommunity response to disturbance in dendritic ecological networks** *In prep* 
 
 
-{{< figure src="connect_fig_3.png" caption="Spatiotemporal aspects of connectivity" numbered="false" >}}
+{{< figure src="connect_fig_3.png" caption="Spatiotemporal aspects of connectivity in rivers" numbered="false" >}}
 
-We then used the model above to examine how spatiotemoral aspects of connectivity affect patterns of species richness.
+We then used the model above to examine how spatiotemporal aspects of connectivity affect patterns of species richness.
 
 In riverine ecosystems, factors that vary through space and time, such as flow variability, the presence of barriers to movement, and network topology determine connectivity, and in turn shape patterns of richness. While the effects of network topology and changes in spatiotemporal connectivity regimes on patterns of species richness have been studied in isolation, they have not been studied simultaneously. 
 
@@ -62,12 +62,14 @@ Spatial and temporal loss of connectivity is a ubiquitous issue for river ecosys
 
 {{< figure src="connect_fig_4.png" caption="An upokororo, image source: Te Papa: 1992-0035-2278/1" numbered="false" >}}
 
-Finally, we examined how intercatchment connectivity, facilitated by amphidromy of the upkororo may have contributed to the species extinction. Some extinctions have obvious drivers (e.g. over harvesting), while others can be less obvious and arise from multiple interacting factors. The extinction of the New Zealand grayling (Prototroctes oxyrhynchus) has been blamed on over‐fishing and predation by introduced trout, but these explanations fail to account for the species disappearance from isolated, uninvaded rivers. We investigated if source–sink dynamics, facilitated by P. oxyrhynchus's amphidromous dispersal habit, could account
+Finally, we examined how intercatchment connectivity, facilitated by amphidromy of the upokororo may have contributed to the species extinction. Some extinctions have obvious drivers (e.g. over harvesting), while others can be less obvious and arise from multiple interacting factors. The extinction of the New Zealand grayling (*Prototroctes oxyrhynchus*) has been blamed on over‐fishing and predation by introduced trout, but these explanations fail to account for the species disappearance from isolated, uninvaded rivers. We investigated if source–sink dynamics, facilitated by *P. oxyrhynchus*'s amphidromous dispersal habit, could account
 for the species’ rapid extinction.
-We created a database of P. oxyrhynchus sightings by surveying newspapers dating back to 1839, along with a review of traditional scientific literature. We used this database to update P. oxyrhynchus's known distribution map and inform sighting models to predict P. oxyrhynchus's extinction date. Finally, we implemented a meta‐population model to explore how source–sink dynamics could interact with off‐take (over‐fishing or predation) to drive extinction.
-Prototroctes oxyrhynchus was found across New Zealand, except the north of the North Island. Based on sightings methods, the earliest predicted extinction date was 1924, although the species may have persisted until 1972, later than previous estimates have suggested. In the absence of source-sink dynamics, relatively high levels of off‐take were sustainable (up to 30% per generation). When the species was modelled as a panmictic meta‐population including 5% sink habitats, the sustainable off‐take rate was reduced to as low as 5% per generation.
-Prototroctes oxyrhynchus was a widespread, abundant species that underwent rapid declines and ultimately went extinct. Previous attempts to explain this extinction have failed to account for the species extinction from isolated, pristine rivers. Our modelling shows that treating the species as a panmictic metapopulation and including source–sink dynamics rapidly increases the probability of extinction. We suggest that source–sink dynamics may be an important aspect of the population dynamics of amphidromous species and should be considered when managing taxa with similar dispersal habits.
 
-**Assessing the role of off-take and source-sink dynamics in the extinction of the amphidromous upokororo (*Prototroctes oxyrhynchus*)**  [Link to article](https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.13366)
+We created a database of *P. oxyrhynchus* sightings by surveying newspapers dating back to 1839, along with a review of traditional scientific literature. We used this database to update *P. oxyrhynchus*'s known distribution map and inform sighting models to predict *P. oxyrhynchus*'s extinction date. Finally, we implemented a meta‐population model to explore how source–sink dynamics could interact with off‐take (over‐fishing or predation) to drive extinction.
+*Prototroctes oxyrhynchus* was found across New Zealand, except the north of the North Island. Based on sightings methods, the earliest predicted extinction date was 1924, although the species may have persisted until 1972, later than previous estimates have suggested. In the absence of source-sink dynamics, relatively high levels of off‐take were sustainable (up to 30% per generation). When the species was modelled as a panmictic meta‐population including 5% sink habitats, the sustainable off‐take rate was reduced to as low as 5% per generation.
+
+*Prototroctes oxyrhynchus* was a widespread, abundant species that underwent rapid declines and ultimately went extinct. Previous attempts to explain this extinction have failed to account for the species extinction from isolated, pristine rivers. Our modelling shows that treating the species as a panmictic metapopulation and including source–sink dynamics rapidly increases the probability of extinction. We suggest that source–sink dynamics may be an important aspect of the population dynamics of amphidromous species and should be considered when managing taxa with similar dispersal habits.
+
+**Assessing the role of off-take and source-sink dynamics in the extinction of the amphidromous upokororo (*Prototroctes oxyrhynchus*). Freshwater Biology**  [Link to article](https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.13366)
 
 
