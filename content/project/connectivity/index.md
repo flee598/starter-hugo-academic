@@ -35,14 +35,14 @@ We performed an extensive simulation study in which we i) identified orthogonal 
 
 Both SBNs and OCNs can replicate the node topology of real rivers. The choice of which algorithm to use will depend on the research aims, SBNs are faster to generate and more tractable, whereas OCNs can reproduce a wider variety of the characteristics of real rivers, but are more time-consuming to generate. When quantifying node topology in river networks we recommend the orthogonal node metrics eccentricity, when interested in network centrality, and mean neighbour degree, when interested in local node importance. 
 
-**River networks: an analysis of simulating algorithms and graph metrics used to quantify** *In review* 
+Article: **River networks: an analysis of simulating algorithms and graph metrics used to quantify** *In review* 
 
 
 {{< figure src="connect_fig_2.png" caption="Trait response to disturbance. C = Competition, R = Reproduction, D = Dispersal" numbered="false" >}}
 
 In the second part of my PhD we presented a mechanistic model of a freshwater fish metacommunity and used the model to understand how environmental variability can interact with disturbance to shape patterns of species richness. Understanding how species coexist remains a long-running challenge in ecology. Coexistence, and hence patterns of richness and diversity, result from a combination of selection, drift, speciation, and dispersal, the relative importance of each being context and scale-dependent. Here, we have outlined a simple, but flexible model that focuses on variability in species traits and that explicitly considers network structure when representing freshwater fish metacommunity dynamics. Our findings suggest that when looking to understand how species may respond to disturbance regimes in the future, an understanding of environmental spatial structure (ESS) is also needed as ESS can mediate the effects of disturbance.
 
-**Environmental spatial structure mediates metacommunity response to disturbance in dendritic ecological networks** *In prep* 
+Article: **Environmental spatial structure mediates metacommunity response to disturbance in dendritic ecological networks** *In prep* 
 
 
 {{< figure src="connect_fig_3.png" caption="Spatiotemporal aspects of connectivity in rivers" numbered="false" >}}
@@ -57,7 +57,7 @@ Our modelling suggests that: i) the effect of spatial loss of connectivity on lo
 
 Spatial and temporal loss of connectivity is a ubiquitous issue for river ecosystems globally, making understanding and predicting its effects of fundamental importance to both improving theory and guiding river management. Our findings highlight the importance of network topology (and hence context dependency) in shaping metacommunity response to changing connectivity regimes. 
 
-**Network topology mediates freshwater fish metacommunity response to loss of connectivity** *In review* 
+Article: **Network topology mediates freshwater fish metacommunity response to loss of connectivity** *In review* 
 
 
 {{< figure src="connect_fig_4.png" caption="An upokororo, image source: Te Papa: 1992-0035-2278/1" numbered="false" >}}
@@ -70,6 +70,4 @@ We created a database of *P. oxyrhynchus* sightings by surveying newspapers dati
 
 *Prototroctes oxyrhynchus* was a widespread, abundant species that underwent rapid declines and ultimately went extinct. Previous attempts to explain this extinction have failed to account for the species extinction from isolated, pristine rivers. Our modelling shows that treating the species as a panmictic metapopulation and including source–sink dynamics rapidly increases the probability of extinction. We suggest that source–sink dynamics may be an important aspect of the population dynamics of amphidromous species and should be considered when managing taxa with similar dispersal habits.
 
-**Assessing the role of off-take and source-sink dynamics in the extinction of the amphidromous upokororo (*Prototroctes oxyrhynchus*). Freshwater Biology**  [Link to article](https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.13366)
-
-
+Article: **Assessing the role of off-take and source-sink dynamics in the extinction of the amphidromous upokororo (*Prototroctes oxyrhynchus*). Freshwater Biology**  [Link to article](https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.13366)
