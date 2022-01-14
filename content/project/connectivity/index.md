@@ -70,4 +70,4 @@ We created a database of *P. oxyrhynchus* sightings by surveying newspapers dati
 
 *Prototroctes oxyrhynchus* was a widespread, abundant species that underwent rapid declines and ultimately went extinct. Previous attempts to explain this extinction have failed to account for the species extinction from isolated, pristine rivers. Our modelling shows that treating the species as a panmictic metapopulation and including source–sink dynamics rapidly increases the probability of extinction. We suggest that source–sink dynamics may be an important aspect of the population dynamics of amphidromous species and should be considered when managing taxa with similar dispersal habits.
 
-Article: **Assessing the role of off-take and source-sink dynamics in the extinction of the amphidromous upokororo (*Prototroctes oxyrhynchus*). Freshwater Biology**  [Link to article](https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.13366)
+Article: **Assessing the role of off-take and source-sink dynamics in the extinction of the amphidromous upokororo (*Prototroctes oxyrhynchus*)**  [Freshwater Biology](https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.13366)
