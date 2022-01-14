@@ -23,9 +23,10 @@ url_video: ""
 slides: ""
 ---
 
-As part of my Masters work we looked at the role of agricultural land use in facilitating the spread of *Gambusia affinis* (mosquitofish). 
+For my PhD I examined used models to metapoplation and community dynamics to examine how netork topology and connectivity can affect species extinctions and patterns of species richness.
 
-First we examined network genrating algorithms xxx
+
+First we examined network generating algorithms xxx
 
 **Article title here** *In review* 
 
