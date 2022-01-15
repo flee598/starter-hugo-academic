@@ -1,6 +1,6 @@
 ---
 title: "Spatially structured ecosystems, connectivity and movement"
-authors: ["Finnbar Lee", "J Zhang", "C.E. Simpkins", "J.A. Becker", "George L.W. Perry"]
+authors: ["Finnbar Lee", "Jingjing Zhang", "Craig E. Simpkins", "Justine A. Becker", "George L.W. Perry"]
 date: "2021-01-01"
 doi: ""
 publishDate: "2021-01-01"
