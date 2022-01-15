@@ -13,7 +13,7 @@ Our results show that with increasing temperature in NZ, mosquitofish consumed m
 Together, our results show multiple pathways by which consumers may alter their feeding patterns with rising temperatures, and they suggest that warming-induced changes to resource availability may be the principal determinant of which pathway is taken."
 summary:
 tags: []
-featured: true
+featured: false
 url_pdf: "https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.2144"
 url_code: ""
 url_dataset: ""

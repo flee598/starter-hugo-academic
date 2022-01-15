@@ -13,7 +13,7 @@ The percentage of the catchment in agricultural land use was associated with cha
 The distribution of Gambusia in streams in New Zealand is partially controlled by catchment-scale conditions via a combination of dispersal limitation and environmental filtering, both of which are affected by agricultural land use. Agricultural land use alters local in-stream conditions, resulting in systems that are similar to those in Gambusia's natural range; these altered systems have the potential to support an increased abundance of Gambusia. This study provides preliminary quantitative evidence that agricultural land use is related to the spread of a globally invasive freshwater fish."
 summary:
 tags: []
-featured: true
+featured: false
 url_pdf: "https://linkinghub.elsevier.com/retrieve/pii/S0048969717303492"
 url_code: ""
 url_dataset: ""
