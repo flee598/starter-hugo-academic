@@ -1,6 +1,6 @@
 ---
 title: "Quantifying sediment (dis)connectivity in the modeling of river systems"
-authors: ["Gary Brierley", "Jon Tunnicliffe", "Simone Bizzi", "Finnbar Lee", "George Perry", "Kirstie Fryirs"]
+authors: ["Gary Brierley", "Jon Tunnicliffe", "Simone Bizzi", "Finnbar Lee", "George Perry", "Ronald Pöppl", "Kirstie Fryirs"]
 date: "2021-01-01"
 doi: ""
 publishDate: "2021-01-01"
