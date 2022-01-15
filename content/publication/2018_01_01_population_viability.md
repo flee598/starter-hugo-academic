@@ -13,7 +13,7 @@ There were clear biases in the species selected for analysis, notably an over-re
 To maximise the benefit of PVAs, we suggest that more attention should be given to the ecosystem-level importance of species, and to species whose threat status is changing rapidly or are not yet threatened. More clearly describing the parameterisation, underlying assumptions and implementation of PVAs will help to better contextualise their results and support reproducible ecological science and decision-making."
 summary:
 tags: []
-featured: true
+featured: false
 url_pdf: "https://newzealandecology.org/nzje/3343"
 url_code: ""
 url_dataset: ""
