@@ -1,10 +1,9 @@
 ---
 title: Non-academic articles and media coverage
-subtitle: "Various non-academic articles I have written or media coverage of my research.
-"
+subtitle: ""
 
 # Summary for listings and search engines
-summary: "--"
+summary: "Various non-academic articles I have written or media coverage of my research."
 
 # Link this post with a project
 projects: []
