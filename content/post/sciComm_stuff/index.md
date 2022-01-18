@@ -47,7 +47,7 @@ Various non-academic articles I have written or media coverage of my research.
 
 3. **Forest and Bird Magazine** story about our article "Assessing the role of off‐take and source–sink dynamics in the extinction of the amphidromous New Zealand grayling (*Prototroctes oxyrhynchus*)", published in Freshwater Biology. [Link](./Forest_and_Bird_Summer2019.pdf)
 
-4. Article by Finn: "Multi-faceted effects of land‐use change on streams" in *Environmental News* published by the **Great Barrier Island Environmental Trust**. [Link] (https://www.gbiet.org/en40effectsoflandusechangeonstreams)
+4. Article by Finn: "Multi-faceted effects of land‐use change on streams" in *Environmental News* published by the **Great Barrier Island Environmental Trust**. [Link](https://www.gbiet.org/en40effectsoflandusechangeonstreams)
 
 ## 2017
 1. Interviewed on **95bFM** "Ready steady learn" about mosquitofish and water quality. [Listen](https://95bfm.com/bcast/ready-steady-learn-finn-lee).

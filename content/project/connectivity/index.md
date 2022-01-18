@@ -1,6 +1,6 @@
 ---
 title: Network topology and connectivity
-summary: PhD research exploring the role of network topology and connectivity in shaping extinction risk and patterns of richness.
+summary: PhD research exploring the role of network topology and connectivity in shaping extinction risk and patterns of species richness in freshwater fish metacommunities.
 date: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
