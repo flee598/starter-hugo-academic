@@ -25,3 +25,7 @@ slides: ""
 
 Put the prodibi shortcode here I think ?
 
+
+Usage: {{< prodibi style="grid" containerID="[website]" username="[seaslug]" >}}
+
+
