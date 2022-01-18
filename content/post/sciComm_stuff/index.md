@@ -1,9 +1,9 @@
 ---
-title: Non-academic articles I have written and media coverage of my research.
-subtitle: 
+title: Non-academic articles and media coverage of my research.
+subtitle: ""
 
 # Summary for listings and search engines
-summary: 
+summary: ""
 
 # Link this post with a project
 projects: []
@@ -34,6 +34,9 @@ image:
 tags:
 
 categories:
+
+url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+
 ---
 
 ## Overview
@@ -49,7 +52,6 @@ Here are various non-academic articles I have written or media coverage of my re
 ## 2019
 
 1. Short article "Multi-faceted effects of land‐use change on streams" in *Environmental News* published by the Great Barrier Island Environmental Trust.
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
 
 ## 2018
