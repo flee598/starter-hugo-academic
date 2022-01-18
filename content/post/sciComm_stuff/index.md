@@ -50,7 +50,3 @@ categories:
 1. Interviewed on **95bFM** "Ready steady learn" about mosquitofish and water quality. [Listen](https://95bfm.com/bcast/ready-steady-learn-finn-lee).
 
 2. **Stuff** news story about our article "Increasing agricultural land use is associated with the spread of an invasive fish (*Gambusia affinis*)", published in Science of the Total Environment. [Link](https://www.stuff.co.nz/environment/89515711/farming-contributes-to-spread-of-invasive-mosquitofish-auckland-researchers-find)
-
-
-
-[{{< icon name="r-project" pack="fab" >}}](https://www.stuff.co.nz/environment/89515711/farming-contributes-to-spread-of-invasive-mosquitofish-auckland-researchers-find)
