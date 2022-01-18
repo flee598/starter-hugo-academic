@@ -1,9 +1,9 @@
 ---
 title: Non-academic articles and media coverage of my research.
-subtitle: ""
+subtitle: "-"
 
 # Summary for listings and search engines
-summary: ""
+summary: "--"
 
 # Link this post with a project
 projects: []
@@ -49,10 +49,17 @@ Here are various non-academic articles I have written or media coverage of my re
 
 ## 2019
 
-1. Short article "Multi-faceted effects of land‐use change on streams" in *Environmental News* published by the Great Barrier Island Environmental Trust.
+1.
+2.
+3.
 
-[params]
-    instagramLink = "https://app.netlify.com/teams/flee598/overview"
+1. Forest and bird article [Link](./Forest_and_Bird_Summer2019.pdf)
 
-## 2018
 
+2. Article: [Multi-faceted effects of land‐use change on streams](https://www.gbiet.org/en40effectsoflandusechangeonstreams) in *Environmental News* published by the Great Barrier Island Environmental Trust.
+
+
+## 2017
+1. Interviewed on 95bFM "Ready steady learn" about mosquitofish and water quality. [Listen](https://95bfm.com/bcast/ready-steady-learn-finn-lee).
+
+2. News story about our article "Increasing agricultural land use is associated with the spread of an invasive fish (*Gambusia affinis*)", published in Science of the Total Environment. [Link](https://www.stuff.co.nz/environment/89515711/farming-contributes-to-spread-of-invasive-mosquitofish-auckland-researchers-find)
