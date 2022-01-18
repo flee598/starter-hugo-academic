@@ -1,6 +1,6 @@
 ---
-title: nzffdr R package
-summary: ""
+title: Gallery 1
+summary: "a test gallery"
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
