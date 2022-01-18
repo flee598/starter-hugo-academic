@@ -23,7 +23,7 @@ url_video: ""
 slides: ""
 ---
 
-Put the prodibi shortcode here I think ?
+Put the prodibi shortcode here I think?
 
 
 {{< prodibi style="grid" containerID="[website]" username="[seaslug]" >}}
