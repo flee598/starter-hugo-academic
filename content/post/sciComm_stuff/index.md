@@ -1,6 +1,7 @@
 ---
 title: Non-academic articles and media coverage
-subtitle: "-"
+subtitle: "Various non-academic articles I have written or media coverage of my research.
+"
 
 # Summary for listings and search engines
 summary: "--"
@@ -33,9 +34,6 @@ tags:
 categories:
 
 ---
-
-## Overview
-Various non-academic articles I have written or media coverage of my research.
 
 ## 2021
 1. Article by Finn: "Whitebait conservation in light of recent fishing reforms" in *Hot Topics* published by the **Ecological Society of New Zealand**. [Link](https://newzealandecology.org/whitebait-conservation-light-recent-fishing-reforms)
