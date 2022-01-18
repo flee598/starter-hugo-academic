@@ -36,4 +36,4 @@ categories:
 
 add stuff here
 
-{{< prodibi style="grid" containerID="[website]" username="[seaslug]" >}}
+{{< prodibi style="grid" containerID="website" username="seaslug" >}}
