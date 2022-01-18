@@ -36,4 +36,3 @@ categories:
 
 add prodibi shortcode here
 
-# {{< wowchemy-shortcode-prodibi style="grid" containerID="[website]" username="[seaslug]" >}}
