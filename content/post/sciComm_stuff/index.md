@@ -35,8 +35,6 @@ tags:
 
 categories:
 
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
-
 ---
 
 ## Overview
