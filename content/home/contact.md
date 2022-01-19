@@ -28,3 +28,4 @@ content:
 design:
   columns: '2'
 ---
+[{{< icon name="twitter" pack="fab" >}}](https://twitter.com/FinnbarLee)
