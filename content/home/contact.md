@@ -16,11 +16,6 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
-social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/FinnbarLee
-
   # Email form provider
  # form:
  #   provider: netlify
