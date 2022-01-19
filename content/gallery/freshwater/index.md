@@ -26,3 +26,6 @@ slides: ""
 Might take a min to load.
 
 {{< prodibi style="grid" containerID="[rdll7g2r7g28dyq]" username="[seaslug]" >}}
+
+
+<div data-prodibi='{"type":"grid","settings":{"container":"rdll7g2r7g28dyq","account":"seaslug"}}'><script>;!function() {if (window.prodibiAsync == null) { var s = document.createElement('script'); s.async = !0; s.src = 'https://max1.prodibicdn.com/libraries/pages/prodibi.embed.2.0.min.js'; document.body.appendChild(s); }window.prodibiAsync = window.prodibiAsync || [];prodibiAsync.push({ type: "settings", settings: { account: "seaslug" } });}();</script></div>
