@@ -17,5 +17,3 @@ url_video: ""
 ---
 
 Might take a min to load.
-
-{{< prodibi style="grid" containerID="[1jdd047jm07g9wk]" username="[seaslug]" >}}
