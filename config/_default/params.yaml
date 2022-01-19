@@ -26,6 +26,10 @@ address:
   city: Auckland
   postcode: '1010'
   country: New Zealand
+social:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/FinnbarLee
 
 # Site header
 

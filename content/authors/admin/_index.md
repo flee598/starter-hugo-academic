@@ -50,8 +50,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FinnbarLee
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=4rTyomQAAAAJ&view_op=list_works&alert_preview_top_rm=2&sortby=pubdate
 - icon: github
   icon_pack: fab
