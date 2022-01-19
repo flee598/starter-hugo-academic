@@ -2,7 +2,7 @@
 title: "Assessing the role of off-take and source-sink dynamics in the extinction of the amphidromous New Zealand grayling (Prototroctes oxyrhynchus)"
 authors: ["Finnbar Lee", "George L.W. Perry"]
 date: "2019-01-01"
-doi: "https://onlinelibrary.wiley.com/doi/abs/10.1111/fwb.13366"
+doi: "10.1111/fwb.13366"
 publishDate: "2019-01-01"
 publication_types: ["2"]
 publication: Freshwater Biology

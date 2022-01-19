@@ -2,7 +2,7 @@
 title: "Population viability analyses in New Zealand: a review"
 authors: ["Craig Simpkins", "Finnbar Lee", "Breanna Powers", "Sandra Anderson", "Quinn Asena", "James Brock", "George Perry"]
 date: "2018-01-01"
-doi: "https://newzealandecology.org/nzje/3343"
+doi: "10.20417/nzjecol.42.32"
 publishDate: "2018-01-01"
 publication_types: ["2"]
 publication: New Zealand Journal of Ecology

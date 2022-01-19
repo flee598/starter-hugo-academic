@@ -2,7 +2,7 @@
 title: "nzffdr: an R package to import, clean and update data from the New Zealand Freshwater Fish Database"
 authors: ["Finnbar Lee", "Nick Young"]
 date: "2021-01-01"
-doi: "https://www.biorxiv.org/content/10.1101/2021.06.22.449519v1.abstract"
+doi: "10.1101/2021.06.22.449519"
 publishDate: "2021-01-01"
 publication_types: ["2"]
 publication: bioRxiv

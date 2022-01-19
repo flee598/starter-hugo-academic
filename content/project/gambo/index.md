@@ -29,6 +29,6 @@ First we examined how landscape and instream scale factors affected the distribu
 
 **Increasing agricultural land use is associated with the spread of an invasive fish (*Gambusia affinis*)** [Link to article](https://www.sciencedirect.com/science/article/abs/pii/S0048969717303492)
 
-In the second part of my MSc we looked at how agricultural land use affected the diet of mosquitofish. We found that *G. affinis* were capable of consuming a wide variety of prey in agricultural streams; their preferred prey are generally pollution-tolerant taxa commonly found in degraded streams. Having a large level of dietary plasticity coupled with preferring prey that are often associated with degraded systems likely facilitates to the spread of one of the most widely distributed freshwater invasive fish.
+In the second part of my MSc we looked at how agricultural land use affected the diet of mosquitofish. We found that *G. affinis* were capable of consuming a wide variety of prey in agricultural streams; their preferred prey are generally pollution-tolerant taxa commonly found in degraded streams. Having a large level of dietary plasticity coupled with preferring prey that are often associated with degraded systems likely facilitates the spread of one of the most widely distributed freshwater invasive fish.
 
 **Prey selectivity and ontogenetic diet shift of the globally invasive western mosquitofish (*Gambusia affinis*) in agriculturally impacted streams** [Link to article](https://onlinelibrary.wiley.com/doi/abs/10.1111/eff.12395)
