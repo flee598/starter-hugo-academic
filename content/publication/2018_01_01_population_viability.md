@@ -2,7 +2,7 @@
 title: "Population viability analyses in New Zealand: a review"
 authors: ["Craig Simpkins", "Finnbar Lee", "Breanna Powers", "Sandra Anderson", "Quinn Asena", "James Brock", "George Perry"]
 date: "2018-01-01"
-doi: ""
+doi: "https://newzealandecology.org/nzje/3343"
 publishDate: "2018-01-01"
 publication_types: ["2"]
 publication: New Zealand Journal of Ecology
@@ -14,7 +14,7 @@ To maximise the benefit of PVAs, we suggest that more attention should be given 
 summary:
 tags: []
 featured: false
-url_pdf: "https://newzealandecology.org/nzje/3343"
+url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_poster: ""

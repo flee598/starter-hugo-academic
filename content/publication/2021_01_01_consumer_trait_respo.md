@@ -2,7 +2,7 @@
 title: "Consumer trait responses track change in resource supply along replicated thermal gradients"
 authors: ["Emma R. Moffett", "David C. Fryxell", "Finnbar Lee", "Eric P. Palkovacs", "Kevin S. Simon"]
 date: "2021-01-01"
-doi: ""
+doi: "https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.2144"
 publishDate: "2021-01-01"
 publication_types: ["2"]
 publication: Proceedings of the Royal Society B
@@ -14,7 +14,7 @@ Together, our results show multiple pathways by which consumers may alter their 
 summary:
 tags: []
 featured: true
-url_pdf: "https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.2144"
+url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_poster: ""

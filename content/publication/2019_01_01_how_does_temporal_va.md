@@ -2,7 +2,7 @@
 title: "How does temporal variation in habitat connectivity influence metapopulation dynamics?"
 authors: ["George L.W. Perry", "Finnbar Lee"]
 date: "2019-01-01"
-doi: ""
+doi: "https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.06052"
 publishDate: "2019-01-01"
 publication_types: ["2"]
 publication: Oikos
@@ -11,7 +11,7 @@ abstract: "Metapopulation persistence depends on connectivity between habitat pa
 summary:
 tags: []
 featured: false
-url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.06052"
+url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_poster: ""

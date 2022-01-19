@@ -2,7 +2,7 @@
 title: "Quantifying sediment (dis)connectivity in the modeling of river systems"
 authors: ["Gary Brierley", "Jon Tunnicliffe", "Simone Bizzi", "Finnbar Lee", "George Perry", "Ronald Pöppl", "Kirstie Fryirs"]
 date: "2021-01-01"
-doi: ""
+doi: "https://www.elsevier.com/books/treatise-on-geomorphology/shroder/978-0-12-818234-5"
 publishDate: "2021-01-01"
 publication_types: ["6"]
 publication: Treatise on Geomorphology
@@ -11,7 +11,7 @@ abstract: "Predictions of sediment flux and the evolutionary trajectory of river
 summary:
 tags: []
 featured: true
-url_pdf: "https://www.elsevier.com/books/treatise-on-geomorphology/shroder/978-0-12-818234-5"
+url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_poster: ""
