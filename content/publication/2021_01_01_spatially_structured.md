@@ -7,7 +7,7 @@ publishDate: "2021-01-01"
 publication_types: ["6"]
 publication: The Routledge Handbook of Landscape Ecology
 publication_short:
-abstract: No abstract available. [{{< icon name="link" pack="fas" >}}](https://www.routledge.com/The-Routledge-Handbook-of-Landscape-Ecology/Francis-Millington-Perry-Minor/p/book/9780367024567)
+abstract: No abstract available.
 summary:
 tags: []
 featured: true
