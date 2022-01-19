@@ -69,4 +69,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a Postdoctoral Research Fellow at the University of Auckland. My research focuses on the spatial dynamics of populations and communities, with a particular focus on freshwater fish. Currently I am working to better understand how amphidromous dispersal in whitebait populations can interact with stressors to determine extinction risk. This research is conducted with collaborators at UoA and around New Zealand and is supported by the George Mason Centre for the Natural Environment.
+I am a Postdoctoral Research Fellow at the University of Auckland. My research focuses on the spatiotemporal dynamics of populations and communities, with a particular focus on freshwater fish. Currently I am working to better understand how amphidromous dispersal in whitebait populations can interact with stressors to determine extinction risk. This research is conducted with collaborators at UoA and around New Zealand and is supported by the George Mason Centre for the Natural Environment.
