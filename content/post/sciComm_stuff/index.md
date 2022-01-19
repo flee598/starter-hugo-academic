@@ -35,21 +35,20 @@ categories:
 ---
 
 ## 2021
-1. Article by Finn: "Whitebait conservation in light of recent fishing reforms" in *Hot Topics* published by the **New Zealand Ecological Society**. [Link](https://newzealandecology.org/whitebait-conservation-light-recent-fishing-reforms)
+1. Article by Finn: "Whitebait conservation in light of recent fishing reforms" in *Hot Topics* published by the **New Zealand Ecological Society**. [{{< icon name="link" pack="fas" >}}](https://newzealandecology.org/whitebait-conservation-light-recent-fishing-reforms)
 
 ## 2019
-1. **Newsroom** story about our article "Assessing the role of off‐take and source–sink dynamics in the extinction of the amphidromous New Zealand grayling (*Prototroctes oxyrhynchus*)", published in Freshwater Biology. [Link](https://www.newsroom.co.nz/closure-for-a-fishy-cold-case)
+1. **Newsroom** story about our article "Assessing the role of off‐take and source–sink dynamics in the extinction of the amphidromous New Zealand grayling (*Prototroctes oxyrhynchus*)", published in Freshwater Biology. [{{< icon name="link" pack="fas" >}}](https://www.newsroom.co.nz/closure-for-a-fishy-cold-case)
 
-2. **New Zealand Herald** story about our article "Assessing the role of off‐take and source–sink dynamics in the extinction of the amphidromous New Zealand grayling (*Prototroctes oxyrhynchus*)", published in Freshwater Biology. [Link](https://www.nzherald.co.nz/nz/what-mysterious-extinction-means-for-nzs-native-fish/XSMD7FTSRQHG7OICQJI44CTXPE/)
+2. **New Zealand Herald** story about our article "Assessing the role of off‐take and source–sink dynamics in the extinction of the amphidromous New Zealand grayling (*Prototroctes oxyrhynchus*)", published in Freshwater Biology. [{{< icon name="link" pack="fas" >}}](https://www.nzherald.co.nz/nz/what-mysterious-extinction-means-for-nzs-native-fish/XSMD7FTSRQHG7OICQJI44CTXPE/)
 
-3. **Forest and Bird Magazine** story about our article "Assessing the role of off‐take and source–sink dynamics in the extinction of the amphidromous New Zealand grayling (*Prototroctes oxyrhynchus*)", published in Freshwater Biology. [Link](./Forest_and_Bird_Summer2019.pdf)
+3. **Forest and Bird Magazine** story about our article "Assessing the role of off‐take and source–sink dynamics in the extinction of the amphidromous New Zealand grayling (*Prototroctes oxyrhynchus*)", published in Freshwater Biology. [{{< icon name="link" pack="fas" >}}](./Forest_and_Bird_Summer2019.pdf)
 
-4. Article by Finn: "Multi-faceted effects of land‐use change on streams" in *Environmental News* published by the **Great Barrier Island Environmental Trust**. [Link](https://www.gbiet.org/en40effectsoflandusechangeonstreams)
+4. Article by Finn: "Multi-faceted effects of land‐use change on streams" in *Environmental News* published by the **Great Barrier Island Environmental Trust**. [{{< icon name="link" pack="fas" >}}](https://www.gbiet.org/en40effectsoflandusechangeonstreams)
 
 ## 2017
 1. Interviewed on **95bFM** "Ready steady learn" about mosquitofish and water quality. [Listen](https://95bfm.com/bcast/ready-steady-learn-finn-lee).
 
-2. **Stuff.co.nz** news story about our article "Increasing agricultural land use is associated with the spread of an invasive fish (*Gambusia affinis*)", published in Science of the Total Environment. [Link](https://www.stuff.co.nz/environment/89515711/farming-contributes-to-spread-of-invasive-mosquitofish-auckland-researchers-find)
+2. **Stuff.co.nz** news story about our article "Increasing agricultural land use is associated with the spread of an invasive fish (*Gambusia affinis*)", published in Science of the Total Environment. [{{< icon name="link" pack="fas" >}}](https://www.stuff.co.nz/environment/89515711/farming-contributes-to-spread-of-invasive-mosquitofish-auckland-researchers-find)
 
 
-[{{< icon name="link" pack="fas" >}}](https://www.stuff.co.nz/environment/89515711/farming-contributes-to-spread-of-invasive-mosquitofish-auckland-researchers-find)
