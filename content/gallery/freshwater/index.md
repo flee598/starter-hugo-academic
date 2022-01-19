@@ -23,4 +23,4 @@ url_video: ""
 slides: ""
 ---
 
-<div data-prodibi='{"type":"grid","settings":{"container":"rdll7g2r7g28dyq","account":"seaslug"}}'><script>;!function() {if (window.prodibiAsync == null) { var s = document.createElement('script'); s.async = !0; s.src = 'https://max1.prodibicdn.com/libraries/pages/prodibi.embed.2.0.min.js'; document.body.appendChild(s); }window.prodibiAsync = window.prodibiAsync || [];prodibiAsync.push({ type: "settings", settings: { account: "seaslug" } });}();</script></div>
+<div data-prodibi='{"type":"grid","settings":{"container":"rdlly2vyk8mlm91","account":"seaslug"}}'><script>;!function() {if (window.prodibiAsync == null) { var s = document.createElement('script'); s.async = !0; s.src = 'https://max1.prodibicdn.com/libraries/pages/prodibi.embed.2.0.min.js'; document.body.appendChild(s); }window.prodibiAsync = window.prodibiAsync || [];prodibiAsync.push({ type: "settings", settings: { account: "seaslug" } });}();</script></div>
