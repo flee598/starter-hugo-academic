@@ -23,5 +23,6 @@ url_video: ""
 slides: ""
 ---
 
-R package that facilitates accessing and manipulating NZFFD data in R.
+R package that facilitates accessing and manipulating New Zealand Freshwater Fish Database (NZFFD) data in R. [Package help page](https://flee598.github.io/nzffdr/)
 
+Code example to come... 

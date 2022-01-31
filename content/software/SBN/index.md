@@ -23,4 +23,6 @@ url_video: ""
 slides: ""
 ---
 
-R package for generating and working with Stocastic Branching Networks (SBNs).
+R package for generating and working with Stochastic Branching Networks (SBNs). [Package help page](https://flee598.github.io/SBN/)
+
+Code example to come... 
